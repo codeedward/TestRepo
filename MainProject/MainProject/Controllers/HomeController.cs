@@ -14,6 +14,7 @@ namespace MainProject.Controllers
             return View();
         }
 
+        //sth2
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
