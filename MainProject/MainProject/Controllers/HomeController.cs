@@ -11,9 +11,12 @@ namespace MainProject.Controllers
         public IActionResult Index()
         {
             //nothing branch1
+            //nothing branch2
+            // second test
             return View();
         }
 
+        //sth2
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
