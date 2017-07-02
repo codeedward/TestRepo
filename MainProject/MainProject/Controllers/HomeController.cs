@@ -10,6 +10,7 @@ namespace MainProject.Controllers
     {
         public IActionResult Index()
         {
+            //nothing branch1
             //nothing branch2
             // second test
             return View();
