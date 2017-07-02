@@ -10,7 +10,7 @@ namespace MainProject.Controllers
     {
         public IActionResult Index()
         {
-            //nothing 
+            //nothing master
             return View();
         }
 
