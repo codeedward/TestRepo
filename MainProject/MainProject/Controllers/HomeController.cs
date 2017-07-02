@@ -22,7 +22,7 @@ namespace MainProject.Controllers
 
             return View();
         }
-
+        //sth1
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
